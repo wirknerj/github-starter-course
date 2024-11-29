@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-I was here
+I was here. And I edited this file in VS Code.
 
 ## 🤓 Course overview and learning outcomes 
 
